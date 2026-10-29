@@ -8,6 +8,5 @@ The Mac apps from [Appish](https://appish.app). This repo holds only the downloa
 | Layoutish | https://github.com/matmus-1/appish-downloads/releases/latest/download/Layoutish.dmg |
 | Soundish | https://github.com/matmus-1/appish-downloads/releases/latest/download/Soundish.dmg |
 | Lockish | https://github.com/matmus-1/appish-downloads/releases/latest/download/Lockish.dmg |
-| Menuish | https://github.com/matmus-1/appish-downloads/releases/latest/download/Menuish.dmg |
 
 Every app is signed with Developer ID and notarised by Apple. Each one has a 7-day free trial; learn more and buy at [appish.app](https://appish.app). Support: hello@appish.app.
